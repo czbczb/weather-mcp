@@ -1,6 +1,7 @@
 # weather-mcp
 
 # 项目结构
+```
 weather-mcp/
 ├── .env                    # 环境变量文件 (不提交到git)
 ├── .gitignore             # Git忽略文件
@@ -11,6 +12,7 @@ weather-mcp/
     └── weather_mcp/
         ├── __init__.py    # 包初始化文件
         └── server.py      # 主服务器代码
+```
 
 # 安装依赖
 ```bash
