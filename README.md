@@ -31,8 +31,8 @@ uv run python -m weather_mcp.server
 # 方式 2: 运行文件
 uv run python src/weather_mcp/server.py
 
-# 方式 3: 如果设置了脚本，可以使用
-uv run weather-mcp
+# 方式 3: 运行toml脚本
+uv run dev
 ```
 
 
